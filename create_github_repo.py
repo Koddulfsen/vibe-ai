@@ -87,7 +87,7 @@ if __name__ == "__main__":
     success = create_github_repo(
         "vibe-ai",
         "AI-powered development assistant with UltraDeep thinking and intelligent agents",
-        private=False
+        private=True  # Changed to create private repos by default
     )
     
     if not success:
