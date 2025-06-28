@@ -1,0 +1,33 @@
+{
+  "title": "PRD: Build a task management API",
+  "description": "Build a task management API",
+  "complexity_score": 6.0,
+  "objectives": [
+    "Yes, code implementation required",
+    "Yes, code implementation required",
+    "Standard handling appropriate"
+  ],
+  "technical_requirements": [
+    "External tool integration"
+  ],
+  "constraints": [
+    "Maintain existing code quality standards",
+    "Ensure backward compatibility",
+    "Follow security best practices"
+  ],
+  "success_criteria": [
+    "All objectives completed successfully",
+    "Code passes quality assessment (>70%)",
+    "No critical errors or blockers",
+    "Documentation provided"
+  ],
+  "estimated_effort": "2-4 hours",
+  "suggested_agents": [
+    "planning-analysis-agent",
+    "universal-execution-agent",
+    "repo-manager-agent",
+    "universal-dev-agent"
+  ],
+  "generated_at": "2025-06-28T16:01:29.035769",
+  "task_id": "9f432e70"
+}

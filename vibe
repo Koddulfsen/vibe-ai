@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+"""
+vibe - The simplest way to use vibe.ai
+This is a convenience wrapper that can be installed globally
+"""
+
+import os
+import sys
+
+# Add the vibe.ai directory to Python path
+vibe_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, vibe_dir)
+
+# Import and run the main vibe interface
+from vibe import main
+
+if __name__ == "__main__":
+    main()

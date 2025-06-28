@@ -1,0 +1,35 @@
+{
+  "title": "PRD: Implement a complete user authentication system with JWT tok...",
+  "description": "Implement a complete user authentication system with JWT tokens, database integration, password hashing, email verification, and comprehensive test coverage",
+  "complexity_score": 9.5,
+  "objectives": [
+    "Yes, code implementation required",
+    "Yes, code implementation required",
+    "Standard handling appropriate"
+  ],
+  "technical_requirements": [
+    "External tool integration",
+    "Comprehensive testing suite"
+  ],
+  "constraints": [
+    "Maintain existing code quality standards",
+    "Ensure backward compatibility",
+    "Follow security best practices"
+  ],
+  "success_criteria": [
+    "All objectives completed successfully",
+    "Code passes quality assessment (>70%)",
+    "No critical errors or blockers",
+    "Documentation provided"
+  ],
+  "estimated_effort": "4-8 hours",
+  "suggested_agents": [
+    "planning-analysis-agent",
+    "universal-execution-agent",
+    "quality-git-agent",
+    "service_integrator",
+    "repo-manager-agent"
+  ],
+  "generated_at": "2025-06-27T21:19:55.894264",
+  "task_id": "7537fb8a"
+}

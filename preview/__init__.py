@@ -1,0 +1,1 @@
+# Preview components for vibe.ai

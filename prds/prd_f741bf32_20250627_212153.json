@@ -1,0 +1,35 @@
+{
+  "title": "PRD: Implement a complete authentication system with JWT, databas...",
+  "description": "Implement a complete authentication system with JWT, database persistence, comprehensive testing, and deployment configuration",
+  "complexity_score": 9.5,
+  "objectives": [
+    "Yes, code implementation required",
+    "Yes, code implementation required",
+    "Standard handling appropriate"
+  ],
+  "technical_requirements": [
+    "External tool integration",
+    "Comprehensive testing suite"
+  ],
+  "constraints": [
+    "Maintain existing code quality standards",
+    "Ensure backward compatibility",
+    "Follow security best practices"
+  ],
+  "success_criteria": [
+    "All objectives completed successfully",
+    "Code passes quality assessment (>70%)",
+    "No critical errors or blockers",
+    "Documentation provided"
+  ],
+  "estimated_effort": "4-8 hours",
+  "suggested_agents": [
+    "planning-analysis-agent",
+    "universal-execution-agent",
+    "quality-git-agent",
+    "service_integrator",
+    "repo-manager-agent"
+  ],
+  "generated_at": "2025-06-27T21:21:53.495942",
+  "task_id": "f741bf32"
+}

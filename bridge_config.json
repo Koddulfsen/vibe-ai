@@ -1,0 +1,8 @@
+{
+  "thresholds": {
+    "prd_generation": 6.0,
+    "auto_taskmaster": 7.0,
+    "require_confirmation": 10.0
+  },
+  "last_updated": "2025-06-27T21:22:01.074845"
+}

@@ -1,0 +1,36 @@
+{
+  "agent_aliases": {
+    "planning": "planning-analysis-agent",
+    "execution": "universal-execution-agent",
+    "quality": "quality-git-agent",
+    "coordinator": "agent-coordinator",
+    "repo": "repo-manager-agent",
+    "complexity": "task-complexity-agent",
+    "intelligent": "intelligent-task-agent"
+  },
+  "workflows": {
+    "analyze": [
+      "planning-analysis-agent"
+    ],
+    "execute": [
+      "universal-execution-agent"
+    ],
+    "quality": [
+      "quality-git-agent"
+    ],
+    "full-dev": [
+      "planning-analysis-agent",
+      "universal-execution-agent",
+      "quality-git-agent"
+    ],
+    "planning": [
+      "planning-analysis-agent",
+      "agent-coordinator"
+    ],
+    "quick-fix": [
+      "universal-execution-agent",
+      "quality-git-agent"
+    ]
+  },
+  "default_workflow": "full-dev"
+}

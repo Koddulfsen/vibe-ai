@@ -1,0 +1,33 @@
+{
+  "title": "PRD: Create a REST API with user authentication, rate limiting, a...",
+  "description": "Create a REST API with user authentication, rate limiting, and database persistence",
+  "complexity_score": 6.0,
+  "objectives": [
+    "Yes, code implementation required",
+    "Yes, code implementation required",
+    "Standard handling appropriate"
+  ],
+  "technical_requirements": [
+    "External tool integration"
+  ],
+  "constraints": [
+    "Maintain existing code quality standards",
+    "Ensure backward compatibility",
+    "Follow security best practices"
+  ],
+  "success_criteria": [
+    "All objectives completed successfully",
+    "Code passes quality assessment (>70%)",
+    "No critical errors or blockers",
+    "Documentation provided"
+  ],
+  "estimated_effort": "2-4 hours",
+  "suggested_agents": [
+    "planning-analysis-agent",
+    "universal-execution-agent",
+    "service_integrator",
+    "repo-manager-agent"
+  ],
+  "generated_at": "2025-06-27T21:20:21.358183",
+  "task_id": "baf76dde"
+}

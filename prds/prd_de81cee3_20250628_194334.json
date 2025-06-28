@@ -1,0 +1,33 @@
+{
+  "title": "PRD: build a simple weather API",
+  "description": "build a simple weather API",
+  "complexity_score": 6.0,
+  "objectives": [
+    "Yes, code implementation required",
+    "Yes, code implementation required",
+    "Standard handling appropriate"
+  ],
+  "technical_requirements": [
+    "External tool integration"
+  ],
+  "constraints": [
+    "Maintain existing code quality standards",
+    "Ensure backward compatibility",
+    "Follow security best practices"
+  ],
+  "success_criteria": [
+    "All objectives completed successfully",
+    "Code passes quality assessment (>70%)",
+    "No critical errors or blockers",
+    "Documentation provided"
+  ],
+  "estimated_effort": "2-4 hours",
+  "suggested_agents": [
+    "planning-analysis-agent",
+    "universal-execution-agent",
+    "repo-manager-agent",
+    "universal-dev-agent"
+  ],
+  "generated_at": "2025-06-28T19:43:34.859303",
+  "task_id": "de81cee3"
+}

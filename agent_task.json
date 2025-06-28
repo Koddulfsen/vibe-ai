@@ -1,0 +1,28 @@
+{
+  "task": "Fix vibe.ai agent system",
+  "description": "The agent_based_solution_engine.py is not producing real output when executing agents. Diagnose and fix the issue so agents actually generate code and files.",
+  "subtasks": [
+    {
+      "id": "1",
+      "task": "Analyze agent_based_solution_engine.py to find why agents aren't working",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "task": "Check master-agent.py subprocess execution",
+      "priority": "high"
+    },
+    {
+      "id": "3",
+      "task": "Add proper logging and error handling",
+      "priority": "medium"
+    },
+    {
+      "id": "4",
+      "task": "Test agent execution with a simple task",
+      "priority": "high"
+    }
+  ],
+  "project_root": "/home/koddulf/vibecode/tools/vibe.ai",
+  "tag": "fix-agent-system"
+}

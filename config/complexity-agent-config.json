@@ -1,0 +1,15 @@
+{
+  "expansion_threshold": 6,
+  "max_subtasks": 8,
+  "min_subtasks": 3,
+  "auto_expand": false,
+  "dry_run": false,
+  "verbose": true,
+  "custom_indicators": {
+    "react": 2,
+    "barcode": 3,
+    "nutrition": 2,
+    "supabase": 3,
+    "freemium": 4
+  }
+}
